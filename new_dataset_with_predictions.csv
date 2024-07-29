@@ -1,0 +1,6 @@
+Applicant_ID,Annual_Income,Applicant_Age,Work_Experience,Marital_Status,House_Ownership,Vehicle_Ownership(car),Occupation,Residence_City,Residence_State,Years_in_Current_Employment,Years_in_Current_Residence,Loan_Default_Risk
+75722,9657655,76,0,single,rented,no,Psychologist,Jalandhar,Punjab,0,12,0
+80185,9259353,37,18,single,rented,yes,Petroleum_Engineer,Bally,West_Bengal,12,11,0
+19865,1509721,66,8,single,rented,no,Drafter,Indore,Madhya_Pradesh,4,12,0
+76700,5867312,43,1,single,owned,yes,Chartered_Accountant,Kurnool,Andhra_Pradesh,1,13,0
+92992,7223191,44,9,single,rented,no,Air_traffic_controller,Asansol,West_Bengal,9,13,0
